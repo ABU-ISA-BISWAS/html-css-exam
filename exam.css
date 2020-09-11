@@ -1,0 +1,69 @@
+.div1 {
+  background-image: url("p1.jpg");
+  background-repeat: no-repeat;
+  background-position: bottom;
+height: 900px;
+width: 100%;
+background-color: white;
+
+  
+}
+.drop {
+	margin:0;
+	padding:0;
+	overflow: hidden;
+	display: inline-block;
+}
+.drop  li{
+	float:left;
+	list-style-type: none;
+	margin:6px;
+	
+
+}
+.drop  li a{
+	color:black;
+	font-weight: bold;
+	text-decoration: none;
+	padding: 12px 16px;
+	display: inline-block;
+	font-size: 20px;
+}
+.drop  li a:hover{
+	color: red;
+	
+}
+
+.button {
+  background-color:#3333ff;
+  border-radius:20px;
+  color: white;
+  padding: 20px 42px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+}
+
+.button2 {
+  background-color: white;
+  color: black;
+  border: 2px solid black;
+  font-size: 20px;
+  float: right ;
+  padding: 10px 28px;
+}
+.button1 {
+	
+	margin: 60px 400px 280px 600px;
+}
+.button:hover {
+  background-color: #4dd2ff;
+  color:black;
+}
+.p1 {
+color: #009999;
+font-size: 80px;
+text-align: center;
+margin: 0px 80px 0px 80px;
+}
